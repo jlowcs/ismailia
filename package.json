@@ -1,0 +1,21 @@
+{
+  "name": "ismailia",
+  "version": "0.9.0-dev",
+  "description": "A code coverage tool for ES6 (traceur)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Wakefield (jackwakefield91@gmail.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "istanbul": "^0.3.0",
+    "traceur": "0.0.58"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-plumber": "^0.6.5",
+    "gulp-traceur": "^0.13.0",
+    "gulp-watch": "^0.7.0"
+  }
+}
