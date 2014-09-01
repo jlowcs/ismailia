@@ -1,0 +1,19 @@
+{
+  "name": "ismailia",
+  "version": "0.9.0",
+  "authors": [
+    "Jack Wakefield <jackwakefield91@gmail.com>"
+  ],
+  "license": "Apache",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "traceur-runtime": "~0.0.58"
+  }
+}
