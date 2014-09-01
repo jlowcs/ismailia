@@ -22,7 +22,7 @@ $ npm install --save-dev ismailia
 
 To use ismailia, set the [instrumenter](https://github.com/karma-runner/karma-coverage/blob/master/README.md#instrumenter) for the JavaScript file type to `ismailia`.
 
-```json
+```js
 coverageReporter: {
 	instrumenter: {
 		'**/*.js': 'ismailia'
