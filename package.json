@@ -38,7 +38,7 @@
     "esprima": "^1.2.2",
     "istanbul": "^0.3.0",
     "source-map": "^0.1.38",
-    "traceur": "~0.0.72"
+    "traceur": "0.0.74"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
